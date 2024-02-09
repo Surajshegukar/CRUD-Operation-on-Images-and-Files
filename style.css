@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#imageInput {
+    display: none;
+}
+
+img {
+    max-width: 100%;
+    max-height: 200px;
+    margin-bottom: 10px;
+}
+li{
+    
+    margin-top: 5px;
+    list-style: none;
+}
+span{
+    margin-right: 100px;
+}
